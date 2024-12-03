@@ -24,8 +24,8 @@ The **Log Analyzer** is a Python-based tool for analyzing server logs. It parses
 Clone the repository and run the script:
 
 ```bash
-git clone https://github.com/yourusername/log-analyzer.git
-cd log-analyzer
+git clone https://github.com/OmkarJadhav2020/Log-Analyzer.git
+cd Log-Analyzer
 python log_analyzer.py
 ```
 

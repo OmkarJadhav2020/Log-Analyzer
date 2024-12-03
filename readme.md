@@ -26,7 +26,7 @@ Clone the repository and run the script:
 ```bash
 git clone https://github.com/OmkarJadhav2020/Log-Analyzer.git
 cd Log-Analyzer
-python log_analyzer.py
+python script.py
 ```
 
 ## Menu-Driven Interface
